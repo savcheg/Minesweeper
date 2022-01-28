@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Minesweeper.Minesweeper-task-build-classes-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-reports-tests.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-test-results.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-tmp.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-out.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task.main" target="11" />
+      <module name="Minesweeper.Topics-Extension_functions-Delegation.main" target="11" />
+      <module name="Minesweeper.Topics-Extension_functions-Fridge.main" target="11" />
+      <module name="Minesweeper.Topics-Extension_functions-Last_digit.main" target="11" />
+      <module name="Minesweeper.Topics-Extension_functions-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Properties_accessors-City_population.main" target="11" />
+      <module name="Minesweeper.Topics-Properties_accessors-Correct_overriding.main" target="11" />
+      <module name="Minesweeper.Topics-Properties_accessors-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Properties_accessors-Weather_comparison.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Barista_problem.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Creating_news.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Fabric_manufacture.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Frozen_desserts.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Spot_the_error.main" target="11" />
+      <module name="Minesweeper.Topics-Secondary_constructor-Theory.main" target="11" />
+      <module name="Minesweeper.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
